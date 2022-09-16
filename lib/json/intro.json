@@ -1,0 +1,27 @@
+{
+  "type_id": 4,
+  "total_size": 4,
+  "offset": 0,
+  "product": [
+    {
+      "id": 0,
+      "img": "https://assets1.lottiefiles.com/packages/lf20_jcikwtux.json",
+      "description": "when you Eat Street,we'll hook you up with exclusive coupons"
+    },
+    {
+      "id": 1,
+      "img": "https://assets1.lottiefiles.com/packages/lf20_gjmecwii.json",
+      "description": "we make it simple to find the food you crave.Enter your address and let"
+    },
+    {
+      "id": 2,
+      "img": "https://assets2.lottiefiles.com/packages/lf20_hT3ao1usod.json",
+      "description": "we make food ordering fast, simple and free - no matter if you order"
+    },
+    {
+      "id": 3,
+      "img": "https://assets1.lottiefiles.com/packages/lf20_cdfjcora.json",
+      "description": "Let's Start now"
+    }
+  ]
+}
